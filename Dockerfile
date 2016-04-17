@@ -35,3 +35,5 @@ cd fastx_toolkit-0.0.14
 make
 # Copiar los directorios destino dentro de la computadorarios destino dentro de la computadora
 sudo make install
+# Para verificar que se haya instalado correctamente
+fastq_to_fasta -h
