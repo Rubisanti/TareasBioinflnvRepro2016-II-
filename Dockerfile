@@ -1,4 +1,4 @@
-# TareasBioinflnvRepro2016-II-
+Dockerfile
 
 # Dockerfile que instala FastXTools a partir de la imagen de biodcker/biodocker
 # Baja la última versión de biodcker/biodocker
