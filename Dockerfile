@@ -33,6 +33,5 @@ cd fastx_toolkit-0.0.14
 ./configure
 # Construir (build) los componentes o sub-programas del software y crear los ejecutables necesarios
 make
-# Copiar los directorios destino dentro de la computadora
-rios destino dentro de la computadora
+# Copiar los directorios destino dentro de la computadorarios destino dentro de la computadora
 sudo make install
